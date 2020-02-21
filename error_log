@@ -1,0 +1,4 @@
+[05-Aug-2019 21:29:07 UTC] PHP Warning:  require(views/menu.php): failed to open stream: No such file or directory in /home/uhzb9acwe4hq/public_html/index.php on line 2
+[05-Aug-2019 21:29:07 UTC] PHP Fatal error:  require(): Failed opening required 'views/menu.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/uhzb9acwe4hq/public_html/index.php on line 2
+[05-Aug-2019 21:29:10 UTC] PHP Warning:  require(views/menu.php): failed to open stream: No such file or directory in /home/uhzb9acwe4hq/public_html/index.php on line 2
+[05-Aug-2019 21:29:10 UTC] PHP Fatal error:  require(): Failed opening required 'views/menu.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/uhzb9acwe4hq/public_html/index.php on line 2
